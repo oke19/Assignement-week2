@@ -16,7 +16,4 @@ let difference = prompt("1950-2024")
 
 
 
-console.log("hello {he was born in-1950} &{current year is-2024} He's presently 74 years old")
-
-
-
+console.log(" { yearofbirth-1950} &{currentyear-2024} 74 years")
